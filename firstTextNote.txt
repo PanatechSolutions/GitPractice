@@ -3,3 +3,5 @@ Added new Content
 A new line to test Interactive staging
 New Idea
 I have done branching in Git
+Changes to all the branches
+Switch between branches
