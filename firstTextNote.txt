@@ -3,3 +3,5 @@ Added new Content
 A new line to test Interactive staging
 New Idea
 I have done branching in Git
+
+Hello, This is a new line, appended in text file.
