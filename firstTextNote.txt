@@ -1,0 +1,3 @@
+Git is an example of distributed version control system
+Added new Content
+A new line to test Interactive staging
