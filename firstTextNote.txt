@@ -3,5 +3,10 @@ Added new Content
 A new line to test Interactive staging
 New Idea
 I have done branching in Git
+<<<<<<< HEAD
 
 Hello, This is a new line, appended in text file.
+=======
+Changes to all the branches
+Switch between branches
+>>>>>>> testBranch
